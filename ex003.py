@@ -1,9 +1,11 @@
 print("I will now count my chickens:")
 
-print("Hens", 25 + 30 / 6)
-print("Rooster", 100 - 25 * 3 % 4)
+# Addition of 25 and (30 divided by 6)
+print("Hens", float(25) + float(30) / float(6))
+# Subtraction from 100 the value of (modulo of (25 multipied by 3) divided by 4)
+print("Rooster", float(100) - float(25) * float(3) % float(4))
 
-print("Now I will cccount the eggs:")
+print("Now I will count the eggs:")
 
 print(3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6)
 
@@ -21,3 +23,5 @@ print("How about some more.")
 print("Is it greater?", 5 > -2)
 print("Is it greater or equal?", 5 >= -2)
 print("Is it less or equal?", 5 <= -2)
+
+# Drill
