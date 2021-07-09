@@ -17,6 +17,8 @@ print(f"His teeth are usually {teeth} depending on his coffee.")
 total = age + height + weight
 print(f"If I add {age}, {height}, and {weight} I get {total}.")
 
+# Drill
+
 height_in_metric = height * 2.45 #centimeters
 weight_in_metric = weigth / 2.205 #kilograms
 print(f"Height in metric is {height_in_metric} centimeters.")
