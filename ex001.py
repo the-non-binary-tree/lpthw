@@ -10,3 +10,4 @@ print('I "said" do not touch this.')
 # Octothorpe symbol: the compiler will ignores everything after it on that line while compiling. 
 
 # Terminal command to print out certain line
+# https://stackoverflow.com/questions/24452749/how-to-execute-a-single-line-of-a-python-script-in-terminal
