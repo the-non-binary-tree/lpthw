@@ -8,3 +8,5 @@ print('I "said" do not touch this.')
 
 # Drill
 # Octothorpe symbol: the compiler will ignores everything after it on that line while compiling. 
+
+# Terminal command to print out certain line
