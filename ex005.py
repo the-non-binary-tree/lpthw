@@ -19,8 +19,9 @@ print(f"If I add {age}, {height}, and {weight} I get {total}.")
 
 # Drill
 INCHES_TO_CENTIMETERS = 2.45
-POUNDS_TO_KILIGRAMS = 2.205
+# POUNDS_TO_KILIGRAMS = 2.205
+POUNDS_TO_KILIGRAMS = 0.4 
 height_in_metric = height * INCHES_TO_CENTIMETERS #centimeters
-weight_in_metric = weigth / POUNDS_TO_KILIGRAMS #kilograms
+weight_in_metric = weigth * POUNDS_TO_KILIGRAMS #kilograms
 print(f"Height in metric is {height_in_metric} centimeters.")
 print(f"Weight in metric is {weight_in_metric} kilograms."
