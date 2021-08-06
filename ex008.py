@@ -12,5 +12,6 @@ print(formatter.format(
 ))
 
 #   Drill
-
-
+print(formatter.format(1, 2, 3, 4))
+print("{} {} {} {} {}".format(1, 2, 3, 4, 5))
+print("Concat a variable in to string {}".format(variable_name))
