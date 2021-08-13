@@ -9,3 +9,6 @@ print("Your third variable is", third)
 
 fourth = input("Give one more variable: ")
 print("Your fourth variable is", fourth)
+
+# Drill
+# ValueError: not enough values to unpack (expected 4, got 1)
