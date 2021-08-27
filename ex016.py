@@ -12,7 +12,8 @@ print("Opening the file...")
 target = open(filename, 'w')
 
 print("Truncating the file. Goodbye!")
-target.truncate()
+# target.truncate()
+# 'w' for only writing (an existing file with the same name will be erased)
 
 print("Now I'm going to ask you for three lines.")
 
