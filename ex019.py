@@ -17,3 +17,20 @@ cheese_and_crackers(10 + 20, 5 + 6)
 
 print('And we can combine the two, variables and math:')
 cheese_and_crackers(amount_of_cheese + 100, amount_of_crackers + 100)
+
+
+def my_function(my_argument):
+  print(f'This is my argument {my_argument}')
+  
+my_function(486)
+
+my_argument = '974'
+my_function(my_argument)
+
+my_function(my_argument * 10)
+
+my_function(input('Your argument: '))
+
+my_function(5 + 3)
+
+my_function([5, 3])
