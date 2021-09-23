@@ -33,6 +33,7 @@ if people == dogs:
 # # specified criteria. The IF statement executes 
 # # one set of code if a specified condition is met (TRUE) 
 # # or another set of code evaluates to FALSE.
+# # It invoke a JUMP operation
 #Why the code under if needs to be indented four spaces:
 # # in Python, it is required for indicating what 
 # # block of code a statement belongs to
