@@ -39,7 +39,7 @@ if people == dogs:
 # # block of code a statement belongs to
 #What happens if it isn't indented:
 # # Depends on the actual code, but basically it will 
-# # be executed regardless of the value of the expressions
+# # throw an error
 # # following the if statements
 #What happens if change the initial values of variables:
 # # The expressions in the if statements will validate to different values
