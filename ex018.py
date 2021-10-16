@@ -1,4 +1,4 @@
-#this on is like your scripts with argv
+#this on is like your scripts with argv //look for real example
 def print_two(*args):
     arg1, arg2 = args
     print(f"arg1: {arg1}, arg2: {arg2}")
