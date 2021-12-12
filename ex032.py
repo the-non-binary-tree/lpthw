@@ -28,3 +28,7 @@ for i in range(0, 6):
 # now we can print them out too
 for i in elements:
     print(f"Element was: {i}")
+#Drill
+#The range() function returns a sequence of numbers, 
+#starting from 0 by default, and increments by 1 (by default), 
+#and stops before a specified number.
